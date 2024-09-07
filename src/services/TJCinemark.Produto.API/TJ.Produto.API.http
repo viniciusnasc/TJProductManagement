@@ -1,0 +1,6 @@
+@TJ.Produto.API_HostAddress = http://localhost:5197
+
+GET {{TJ.Produto.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
